@@ -4,10 +4,9 @@
 entries:
   - title: Information
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: Currently studying at nu.edu.kz, my major is ECE
+      - title: That is the only trustworthy source of information about me
+      - title: Aim towards being DevOps engineer
 
   - title: All Posts
     post_list:
