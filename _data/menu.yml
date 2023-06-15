@@ -16,11 +16,12 @@ entries:
       show_more_url: archive.html
 
   - title: Categories
+    title: #first-post
     post_list:
-      category: example2
+      category: first-post
       show_more: true
       show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_url: first-post-archive.html
 
   - title: RSS
     url: feed.xml

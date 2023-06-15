@@ -1,6 +1,6 @@
 ---
 layout: post
-category: example2
+category: first-post
 ---
 
 This is my inaugural post on this website, and I hope my journey will be a satisfying one. I'm not particularly fond of studying at my university due to the individuals who work there and the community surrounding it, but I suppose it's tolerable.
