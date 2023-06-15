@@ -15,13 +15,19 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: Categories
-    title: #first-post
+  - title: The First Post
     post_list:
       category: first-post
       show_more: true
       show_more_text: See more posts...
       show_more_url: first-post-archive.html
+    
+  - title: Personal Projects (soon...)
+    post_list:
+      category: project
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: project-archive.html
 
   - title: RSS
     url: feed.xml
