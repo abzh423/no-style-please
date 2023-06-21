@@ -4,12 +4,8 @@
 entries:
   - title: Information
     entries:
-      - title: Currently studying at nu.edu.kz, my major is ECE
-      - title: That is the only trustworthy source of information about me
-      - title: I aim towards being DevOps engineer
-      - title: My github 
-        url: https://github.com/abzh423
-
+      - title: My 2nd year at nu.edu.kz, my major is ECE
+      - title: Will be writing about engineering, drawing, and life here
   - title: All Posts
     post_list:
       limit: 5
@@ -19,6 +15,7 @@ entries:
     
   - title: Personal Projects (soon...)
     post_list:
+      limit: 5
       category: project
       show_more: true
       show_more_text: See more posts...
