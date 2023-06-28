@@ -28,5 +28,21 @@ entries:
       show_more_text: See more posts...
       show_more_url: project-archive.html
 
+  - title: Art Certificates (soon...)
+    post_list:
+      limit: 5
+      category: project
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: art-certificate-archive.html
+
+  - title: Engineering Certificates (soon...)
+    post_list:
+      limit: 5
+      category: project
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: engineering-certificate-archive.html
+
   - title: RSS
     url: feed.xml
