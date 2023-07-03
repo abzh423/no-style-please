@@ -34,8 +34,8 @@ Rule number 6:
 Act then, Assess, and finally adjust.
 
 Rule number 7:
-Watch out for the No-nos, and:
-- Be immune to comparisons
-- Purposed saving
-- Measured elevation
-- Consequential thought
+Watch out for the following No-nos:
+- Comparisons. Solution, be immune to comparisons.
+- Slandering money. Practise purposed saving.
+- Being poor and living rich. Solution, measured elevation.
+- Never learning from your mistakes. Practise consequential thought.
