@@ -1,3 +1,7 @@
+---
+layout: post
+category: codeOfLife
+---
 Rule number 1:
 Realise that no one is coming to save you & other people are actively trying to take away things you got.
 
