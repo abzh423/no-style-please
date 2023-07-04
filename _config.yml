@@ -1,7 +1,7 @@
 title: Abu Al-Khair's Website # name of the site
 author: Abu Al-Khair Talap # name of site's author
 email: abzh423@protonmail.com # email of site's author
-url: https://www.talapov.com # root address of the site
+url: https://www.talapov.duckdns.org # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   Welcome to the online platform of Abu Al-Khair Talap, an Electrical and Computer engineer. Explore captivating blogs, valuable information, and gain insights into the world of engineering.
