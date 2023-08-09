@@ -16,7 +16,7 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
     
-  - title: Piston Game server software
+  - title: Piston game server software
     post_list:
       limit: 5
       category: piston
