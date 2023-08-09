@@ -16,13 +16,13 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
     
-  - title: Personal Projects (soon...)
+  - title: Piston Game Server Software
     post_list:
       limit: 5
-      category: project
+      category: piston
       show_more: true
       show_more_text: See more posts...
-      show_more_url: project-archive.html
+      show_more_url: piston-archive.html
 
   - title: RSS
     url: feed.xml
